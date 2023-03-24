@@ -11,4 +11,4 @@ I am **Felipe Méndez** student at **University of Chile**. I am an Experienced 
 - 👷 I have worked as a data scientist intern on finance.
 - 🎾 I really enjoy playing tennis and padel.
 - 📫 How to reach me:
-  **[Mail](felipe.mendez.p@ug.uchile.cl)**
+  **[felipe.mendez.p@ug.uchile.cl](mailto:felipe.mendez.p@ug.uchile.cl)**
