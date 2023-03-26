@@ -8,7 +8,7 @@ I am **Felipe Méndez** student at **University of Chile**. Strong engineering p
 ---
 
 - 🔭 I’m currently studing at **University of Chile**
-- 🌱 I’m currently learning **Python - Data Science*
+- 🌱 I’m currently learning **Python - Data Science**
 - 👷 I have worked as a data scientist intern on finance.
 - 🎾 I really enjoy playing tennis and padel.
 - 📫 How to reach me:
