@@ -9,10 +9,10 @@ I am **Felipe Méndez** student at **University of Chile**. Strong engineering p
 
 ## Skills 🛠
 - Python
+- R
 - SQL
 - MongoDB
 - Google Data Studio
-- R
 
 ## Experience 💼
 
