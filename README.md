@@ -27,7 +27,7 @@ I am **Felipe Méndez** student at **University of Chile**. Strong engineering p
 - Assisted in the preparation of risk notes for mutual funds and investment funds. Applied stochastic models to model the behavior of the exchange rate using Python.
 
 ## More about me
-- 🔭 Master’s in Data Science and Industrial CivilEngineering **University of Chile**
+- 🔭 Master’s in Data Science and Industrial CivilEngineering at **University of Chile**
 - 🎾 I really enjoy playing tennis and padel.
 - 📫 How to reach me:
   **[felipe.mendez.p@ug.uchile.cl](mailto:felipe.mendez.p@ug.uchile.cl)**
